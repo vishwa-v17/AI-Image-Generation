@@ -1,0 +1,15 @@
+# Core Deep Learning and Generative AI Framework
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Diffusion and Transformer Models
+diffusers>=0.25.0
+transformers>=4.35.0
+accelerate>=0.25.0
+safetensors>=0.4.0
+
+# Image Processing
+pillow>=9.5.0
+
+# Web User Interface
+gradio>=4.0.0
